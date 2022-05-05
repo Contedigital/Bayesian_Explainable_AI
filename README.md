@@ -17,7 +17,7 @@ that the Bayesian framework resulted in a significant reduc-
 tion in calibration error and improved the interpretability of
 the implemented visual explanation methods.
 
-Please refer to our paper [here](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/614bbe7238ed773177b1a27d2f290324121c0ecd/report.pdf) for further and detailed explantions.
+Please refer to our paper [here](https://github.com/MadsBirch/Bayesian_Explainable_AI/blob/614bbe7238ed773177b1a27d2f290324121c0ecd/report.pdf) for further and detailed explantions about the approach and the results.
 
 This repository contains the code base for the project for the Advanced Machine Learning (02460) course at DTU.
 
